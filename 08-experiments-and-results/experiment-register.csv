@@ -1,0 +1,1 @@
+experiment_id,date,owner,method,code_commit,config_path,dataset,scene,split,seed,training_views,iterations,psnr,ssim,lpips,training_time_seconds,peak_vram_gb,status,output_link,notes

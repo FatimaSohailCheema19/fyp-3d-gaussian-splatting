@@ -1,0 +1,2 @@
+# No dependencies selected yet.
+# Pin validated versions after confirming the baseline environment.

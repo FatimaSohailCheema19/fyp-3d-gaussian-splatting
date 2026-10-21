@@ -1,0 +1,26 @@
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.DS_Store
+Thumbs.db
+~$*
+# Large generated assets: keep links and preparation instructions instead
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.ply
+*.mp4
+*.zip
+**/raw-data/
+**/checkpoints/
+**/outputs/
+**/wandb/
+# Selected figures, CSV metrics and configuration files remain tracked.

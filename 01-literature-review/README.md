@@ -2,7 +2,7 @@
 
 ## Live master sheet
 
-**TODO: [Paste the existing Google Sheet link here.](https://docs.google.com/spreadsheets/d/14GvimPXE6H13Z4-k4iUlXarBaS_NTMgDYGS9zVnHHBY/edit?usp=sharing)**
+**TODO: [Google Sheet link here.](https://docs.google.com/spreadsheets/d/14GvimPXE6H13Z4-k4iUlXarBaS_NTMgDYGS9zVnHHBY/edit?usp=sharing)**
 
 Use the same sheet for all members. Share it with named teammates as Editors; GitHub collaborator access does not grant Google Sheet access. Do not create a second competing master sheet.
 
